@@ -6,6 +6,8 @@ public class main1 {
 		int x;
 		Toado toado 
 		= new Toado(x:2,y:3,"X");
+System.out.println(toado);
+
 	}
 
 }
